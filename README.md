@@ -16,7 +16,7 @@
 ## JavaScript
 <br>
 
-* [JavaScript语言精纯](https://github.com/DMW-wzhw/blog/blob/master/js/JavaScrip语言精粹.md)
+* [JavaScrip语言精粹](https://github.com/DMW-wzhw/blog/blob/master/js/JavaScrip语言精粹.md)
 
 <br>
 <br>
