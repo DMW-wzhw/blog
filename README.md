@@ -9,6 +9,8 @@
 ## Java
 <br>
 
+* 基础笔记
+	* [JavaWeb基础入门笔记](https://github.com/DMW-wzhw/blog/blob/master/java/JavaWeb基础.md)
 
 <br>
 <br>
@@ -16,7 +18,8 @@
 ## JavaScript
 <br>
 
-* [JavaScrip语言精粹](https://github.com/DMW-wzhw/blog/blob/master/js/JavaScrip语言精粹.md)
+* 书籍
+	* [JavaScrip语言精粹](https://github.com/DMW-wzhw/blog/blob/master/js/JavaScrip语言精粹.md)
 
 <br>
 <br>
