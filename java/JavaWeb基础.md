@@ -1,6 +1,7 @@
 # JavaWeb
 
-<br>
+
+
 ## Tomcat
 <br>
 
@@ -28,7 +29,7 @@
 	-- 其他资源 xx.html xx.css xx.js xx.xx
 ```
 
-<br>
+
 ## Serlvet
 <br>
 > Servelt 就是一个接口，定义了 Java 类被浏览器访问(tomcat识别)到的规则，创建一个 Servlet 工程，需要在 project Structure 中的 Libraries 中，将 tomcat 的目录的 lib 添加进来，才能找到 Servlet 接口
@@ -58,7 +59,7 @@
 继承体系 `Servlet => GenericServlet => HttpServlet`
 
 
-<br>
+
 ## Request 和 Response
 <br>
 
@@ -173,7 +174,7 @@ public static getFileName(String agent, String filename) throw UnsupportedEncodi
 ```
 
 
-<br>
+
 ## Cookie 和 Session
 <br>
 
@@ -206,7 +207,7 @@ public static getFileName(String agent, String filename) throw UnsupportedEncodi
 </session-config>
 ```
 
-<br>
+
 ## Filter
 <br>
 
@@ -217,7 +218,7 @@ public static getFileName(String agent, String filename) throw UnsupportedEncodi
 		* 设置 DispatcherType 可以指定过滤的范围，例如是请求过滤，还是转发过滤。。
 
 
-<br>
+
 ## Lintener
 <br>
 
