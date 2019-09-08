@@ -35,7 +35,8 @@ mvn`的项目标准**目录结构**
 
 <br>
 
-![mvn 的概念模型](https://github.com/DMW-wzhw/blog/resources/images/mvn概念模型.png)
+![mvn 的概念模型](https://github.com/DMW-wzhw/blog/blob/master/resources/images/mvn概念模型.png?raw=true)
+
 
 1. 项目自身信息
 2. 项目依赖的 jar 包信息
@@ -49,13 +50,13 @@ mvn`的项目标准**目录结构**
 
 在 Maven 工程中，添加 `mvn tomcat:run` 命令
 
-![tomcat:run](https://github.com/DMW-wzhw/blog/resources/images/tomcatrun.png)
+![tomcat:run](https://github.com/DMW-wzhw/blog/blob/master/resources/images/tomcatrun.png?raw=true)
 
 <br>
 
 在 maven 的 web 项目中，配置 servlet 和 jsp 的依赖的时候，需要添加 <scope>provided</scope>，因为 tomcat 中已经有了这两个包，如果 mvn 打包将这两个包放到 lib 目录下的话，**就会跟 tomcat 本身的冲突**，所以需要添加 scope 作用域。
 
-![scope](https://github.com/DMW-wzhw/blog/resources/images/maven_scope.png)
+![scope](https://github.com/DMW-wzhw/blog/blob/master/resources/images/maven_scope.png?raw=true)
 
 <br>
 

@@ -11,6 +11,7 @@
 
 * 基础笔记
 	* [JavaWeb基础入门笔记](https://github.com/DMW-wzhw/blog/blob/master/java/JavaWeb基础.md)
+	* [Maven](https://github.com/DMW-wzhw/blog/blob/master/java/Maven.md)
 
 <br>
 <br>
