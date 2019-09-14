@@ -6,6 +6,14 @@
 <br>
 
 
+
+## iOS
+<br>
+
+* 第三方源码阅读
+	* [JSPatch](https://github.com/bang590/JSPatch)
+		* [01.JSPatch.js](https://github.com/DMW-wzhw/blog/blob/master/ios/repo/jspatch/jspatch01.md)
+
 ## Java
 <br>
 
